@@ -1,0 +1,11 @@
+ [
+  {description, "dynarec"},
+  {vsn, git},
+  {registered, [dynarec]},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, {dynarec, []}},
+  {env, []}
+ ]}.
