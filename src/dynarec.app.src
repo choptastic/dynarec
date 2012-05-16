@@ -1,4 +1,4 @@
- [
+{application, dynarec, [
   {description, "dynarec"},
   {vsn, git},
   {registered, [dynarec]},
